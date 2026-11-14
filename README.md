@@ -1,24 +1,29 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mh_siddiqui01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Mozammil) 
+<!-- 3D Wave Cyber Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:0284C7&height=210&section=header&text=MD%20MOZAMMIL&fontSize=46&fontColor=38BDF8&fontAlignY=38&desc=Systems%20Architect%20%E2%80%A2%20AI%20%26%20Spatial%20Product%20Builder&descSize=16&descAlignY=60&descColor=E2E8F0&animation=twinkling" width="100%" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mozammilsidz9642&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mozammilsidz9642&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozammilsidz9642&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://portfolio-mauve-nine-wmsmugu1iq.vercel.app/">
+    <img src="https://img.shields.io/badge/3D_PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+  </a>
+  <a href="https://www.linkedin.com/in/mmozammil">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/DIRECT_PING-1E293B?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mozammilsidz9642&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mozammilsidz9642&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mozammilsidz9642&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `01 // SPATIAL & SYSTEM ARCHITECTURE`
+
+```yaml
+architecture:
+  identity: "Md Mozammil — Systems Architect & Product Builder"
+  domain: ["AI Agentic Systems", "3D Spatial Web", "Distributed SaaS", "Autonomous Workflows"]
+  philosophy: "Zero bloat. High-throughput backend infrastructure paired with immersive spatial interfaces."
+  runtime: "Cloud-Native (Groq / FastAPI / Node) + Local Edge Inference (Ollama)"
